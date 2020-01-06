@@ -9,7 +9,7 @@
 
 <h3>Still working on:</h3>
 <ul>
-  <li>The change of mole image when the user hit the mole</li>\
+  <li>The change of mole image when the user hit the mole</li>
   <li>The change of hammer image when the user click</li>
  </ul>
 
